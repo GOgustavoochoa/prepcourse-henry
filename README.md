@@ -1,2 +1,2 @@
-# prepcourse-henry
-mi primer repositorio en github
+este proyecto es una prueba de como crear un repositorio y clonarlo desde hithub desde mi computador
+
